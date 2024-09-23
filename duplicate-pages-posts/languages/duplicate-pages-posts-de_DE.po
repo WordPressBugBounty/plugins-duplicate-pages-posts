@@ -1,0 +1,57 @@
+# Copyright (C) 2021 WP Ninjas - Jonas Tietgen, Ferry Abt
+# This file is distributed under the same license as the Duplicate Pages, Posts & CPT plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Duplicate Pages, Posts & CPT 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/duplicate-pages-"
+"posts\n"
+"POT-Creation-Date: 2023-05-11T13:20:38+02:00\n"
+"PO-Revision-Date: 2023-05-11 13:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3\n"
+"X-Domain: duplicate-pages-posts\n"
+
+#. Plugin Name of the plugin
+msgid "Duplicate Pages, Posts & CPT"
+msgstr "Duplicate Pages, Posts & CPT"
+
+#. Plugin URI of the plugin
+msgid "https://wp-ninjas.de/plugins/duplicate-pages-posts/"
+msgstr "https://wp-ninjas.de/plugins/duplicate-pages-posts/"
+
+#. Description of the plugin
+msgid ""
+"Duplicate pages, posts and custom post types with all their settings and "
+"contents with a single click."
+msgstr ""
+"Dupliziere mit nur einem Klick Seiten, Beiträge und Custom Post Types "
+"inklusive ihrer Einstellungen und Inhalte."
+
+#. Author of the plugin
+msgid "WP Ninjas - Jonas Tietgen, Ferry Abt"
+msgstr "WP Ninjas - Jonas Tietgen, Ferry Abt"
+
+#. Author URI of the plugin
+msgid "https://wp-ninjas.de/"
+msgstr "https://wp-ninjas.de/"
+
+#: duplicate-pages-posts.php:57
+msgctxt "list link"
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: duplicate-pages-posts.php:121
+msgctxt "admin bar"
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: duplicate-pages-posts.php:148
+msgctxt "post title"
+msgid "Duplicate"
+msgstr "Kopie"
